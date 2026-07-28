@@ -12,7 +12,7 @@ const socialImage = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height
   <text x="90" y="180" fill="#43d8b0" font-family="Arial,sans-serif" font-size="28" letter-spacing="5">GLOBAL LIFE SCIENCES INTELLIGENCE</text>
   <text x="90" y="310" fill="#e9f3f7" font-family="Arial,sans-serif" font-weight="700" font-size="82">Pharma Monitor</text>
   <text x="90" y="400" fill="#b7cbd5" font-family="Arial,sans-serif" font-size="38">全球医药与生物科技情报</text>
-  <text x="90" y="495" fill="#8ba4b4" font-family="Arial,sans-serif" font-size="26">监管 · 临床 · 交易 · 供应链 · 中国市场</text>
+  <text x="90" y="495" fill="#8ba4b4" font-family="Arial,sans-serif" font-size="26">全球情报 · 中国政策 · 上市公司 · 公开销售线索</text>
 </svg>`;
 
 await rm(outputDir, { recursive: true, force: true });
